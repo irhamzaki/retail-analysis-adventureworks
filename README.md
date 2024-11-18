@@ -16,4 +16,4 @@ berisi 7 tabel yaitu:
 2. query.sql
 berisi query yang digunakan untuk analisis
 
-link easy report: 
+link easy report: https://medium.com/@irhamzaki/analisis-data-perusahaan-retail-4eddd3b8aa38
